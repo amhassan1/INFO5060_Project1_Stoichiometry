@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stoichiometry": {
+      "commandName": "Project",
+      "commandLineArgs": "/f:formulas.txt"
+    }
+  }
+}
